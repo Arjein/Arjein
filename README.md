@@ -20,7 +20,7 @@ I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlp
 <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title = "Java" alt= "Java" width = "40" height = "40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title = "Python" alt= "Python" width = "40" height = "40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title = "C" alt= "C" width = "40" height = "40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon//icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width = "40" height = "40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob//master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width = "40" height = "40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title = "Firebase" alt= "Firebase" width = "40" height = "40"/>&nbsp;
 
 </div>
