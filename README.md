@@ -6,7 +6,7 @@
 
 I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- 🔭 I’m currently working on my senior project which will be a social media application. Stay Tuned!
+- 🔭 I’m currently working on my senior project which will be a social media application.
 - ⚡ In my free times, I love learning new technologies, earning certificates, and developing products.
 - 🌱 I’m currently studying on Flutter Framework.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mert-arcan-0b9a611b9/)
