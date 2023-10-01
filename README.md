@@ -5,6 +5,7 @@
 ### :man_technologist: About Me:
 
 I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<br>
 Pursuing a Engineering with Management MSc in London right now.
 - 🔭 I’m currently working on my senior project which will be a social media application.
 - ⚡ In my free times, I love learning new technologies, earning certificates, and developing products.
