@@ -7,10 +7,9 @@
 I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <br>
 Pursuing a Engineering with Management MSc in London right now.
-- 🔭 I’m currently working on my senior project which will be a social media application.
 - ⚡ In my free times, I love learning new technologies, earning certificates, and developing products.
-- 🌱 I’m currently studying on Flutter Framework.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mert-arcan-0b9a611b9/)
+- 🌱 I’m currently researching cutting-edge AI methodologies.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mert-arcan)
 
 ---
 
