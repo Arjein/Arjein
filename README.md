@@ -1,49 +1,89 @@
-### Hi there 👋
+# Hi there, I'm Mert Arcan! 👋
+
+🚀 **MSc Graduate Engineer specializing in Software Engineering, Machine Learning, and Data Science**  
+🌍 **Focused on innovative, data-driven technologies with a passion for mobile application development and AI-driven solutions.**
 
 ---
 
-### :man_technologist: About Me:
+### 🔭 My Background
 
-I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-<br>
-Pursuing a Engineering with Management MSc in London right now.
-- ⚡ In my free times, I love learning new technologies, earning certificates, and developing products.
-- 🌱 I’m currently researching cutting-edge AI methodologies.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mert-arcan)
+I'm a recent MSc graduate from **King's College London** with a solid foundation in **Computer Engineering**. I've gained practical experience through various academic and personal projects, specifically in data analysis, performance optimization, and extracting insights from complex datasets.
+
+I’m eager to bring my skills in **Software Engineering, ML Engineering, and Data Science** to new challenges in early-career roles where I can contribute to impactful, technology-driven innovations.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Technical Skills
 
-<div>
+- **Languages**: Java, Python, C, Dart, SQL, JavaScript, HTML, CSS, R  
+- **Frameworks & APIs**: Flutter, Firebase, FastAPI, REST API, Nginx  
+- **Developer Tools**: Git, Google Cloud, Docker, VS Code, Anaconda  
+- **Libraries**: PyTorch, TensorFlow, PyTorch Geometric, Stable Baselines3, Gymnasium, Pandas, NumPy, Matplotlib, Flame  
 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title = "Java" alt= "Java" width = "40" height = "40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title = "Python" alt= "Python" width = "40" height = "40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title = "C" alt= "C" width = "40" height = "40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob//master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width = "40" height = "40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title = "Firebase" alt= "Firebase" width = "40" height = "40"/>&nbsp;
+---
+
+### 📈 GitHub Stats & Languages
+
+<div align="center">
+
+| **GitHub Stats** | **Top Languages** |
+|:-------------------------:|:-------------------------:|
+| ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjein&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjein&layout=compact&theme=radical) |
 
 </div>
 
 ---
 
-<!--
-**Arjein/Arjein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Experience
 
-Here are some ideas to get you started:
+#### Mobile Application Developer Intern - FDNSoft  
+📅 **June 2022 – July 2022**  
+🔹 Developed a secure and responsive **login/register interface** and backend using **Dart, Flutter, and Firebase**  
+🔹 Enhanced user experience across Android and iOS by optimizing interface responsiveness and researching deep linking for seamless app navigation
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
+#### System Engineer Intern - Solus Bilişim Teknoloji  
+📅 **Aug. 2021 – Sep. 2021**  
+🔹 Optimized Nginx servers, configured security protocols, and managed multiple web applications to ensure peak performance during high loads
 
+---
 
- // Linkedin
-<div id="header" align="center">
-<a href="https://www.linkedin.com/in/mert-arcan-0b9a611b9/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-// View Counter
-</div>
-<img src="https://komarev.com/ghpvc/?username=Arjein&style=flat-square&color=blue" alt=""/>
-  -->
+### 📈 Projects
+
+#### **SatNet** | [GitHub Repository](https://github.com/Arjein/SatNet)  
+📍 **Python, TensorFlow, PyTorch, Stable-Baselines3, Gymnasium**  
+SatNet is a Skeletal Attention Network aimed at enhancing the robustness of articulated robot control through **Graph Attention Networks (GAT)** and **Beta distribution**. Achievements include:
+- 70% reduction in training iterations compared to MLP models
+- Resilience to sensor noise, making it ideal for continuous control tasks
+
+#### **Univhex** | [GitHub Repository](https://github.com/Arjein/Univhex)  
+📍 **Dart, Flutter, Firebase, REST API**  
+A social media app for university communities featuring **real-time chat**, post-sharing, and event organization. Key features:
+- Cross-platform navigation optimized with **Flutter**
+- Real-time data management using Firebase for scalable and secure user interactions
+
+#### **Cryptx** | [GitHub Repository](https://github.com/Arjein/Cryptx)  
+📍 **Dart, Flutter, REST API, Firebase**  
+Cryptx is a mock cryptocurrency trading app that provides real-world trading simulations for beginners. Highlights:
+- Real-time market data integration with **Binance API**
+- User authentication and history management via Firebase for a robust and engaging user experience
+
+---
+
+### 📜 Certifications
+
+- **CS50x: Introduction to Computer Science** - Harvard University  
+- **CS50b: Computer Science for Business Professionals** - Harvard University  
+- **Computational Thinking for Problem Solving** - University of Pennsylvania
+
+---
+
+### 🌟 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborations, or just having a chat about tech and innovation! Connect with me on:
+
+- [LinkedIn](https://linkedin.com/in/mertarcan)  
+- [GitHub](https://github.com/Arjein)  
+- [Email](mailto:mertarcan8@gmail.com)  
+
+Feel free to explore my projects, give feedback, or reach out for potential collaborations. Let's build something amazing together!
+
