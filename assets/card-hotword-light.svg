@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="246" viewBox="0 0 580 246">
+  <defs>
+    <clipPath id="c"><rect width="580" height="246" rx="14"/></clipPath>
+    <style>
+      .arrow { animation: nudge 2.4s ease-in-out infinite; }
+      @keyframes nudge { 0%,100% { transform: translate(0,0); } 50% { transform: translate(2px,-2px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <rect width="580" height="246" fill="#F6F8FA"/>
+    <rect x="0" y="0" width="580" height="6" fill="#E5A000"/>
+    <text x="40" y="60" font-size="26" font-weight="700" fill="#111418">Hot Word</text>
+    <text x="40" y="90" font-size="13.5" font-weight="600" fill="#E5A000" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">Flutter · FastAPI · MariaDB · Docker</text>
+    <text x="40" y="124" font-size="15" fill="#57606A">Turkish semantic word game. Every guess is ranked in</text><text x="40" y="147" font-size="15" fill="#57606A">real time by BERT embedding similarity, served by a</text><text x="40" y="170" font-size="15" fill="#57606A">FastAPI backend with vector search.</text>
+    <rect x="40" y="196" width="250" height="28" rx="14" fill="#E5A000"/>
+    <circle cx="56" cy="210" r="4" fill="#111418"/>
+    <text x="68" y="215" font-size="13" font-weight="700" fill="#111418">Published on the App Store</text>
+    
+    <rect x="0.5" y="0.5" width="579" height="245" rx="14" fill="none" stroke="#D0D7DE"/>
+  </g>
+</svg>

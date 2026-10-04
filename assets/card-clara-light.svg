@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="246" viewBox="0 0 580 246">
+  <defs>
+    <clipPath id="c"><rect width="580" height="246" rx="14"/></clipPath>
+    <style>
+      .arrow { animation: nudge 2.4s ease-in-out infinite; }
+      @keyframes nudge { 0%,100% { transform: translate(0,0); } 50% { transform: translate(2px,-2px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <rect width="580" height="246" fill="#F6F8FA"/>
+    <rect x="0" y="0" width="580" height="6" fill="#0E9F8A"/>
+    <text x="40" y="60" font-size="26" font-weight="700" fill="#111418">Clara AI</text>
+    <text x="40" y="90" font-size="13.5" font-weight="600" fill="#0E9F8A" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">LangGraph · LangChain · Ollama · Gmail API</text>
+    <text x="40" y="124" font-size="15" fill="#57606A">AI email agent that triages Gmail and drafts replies</text><text x="40" y="147" font-size="15" fill="#57606A">through a multi-agent workflow with LLM-as-judge</text><text x="40" y="170" font-size="15" fill="#57606A">routing, plus a local mode that keeps data on-device.</text>
+    <rect x="40" y="196" width="283" height="28" rx="14" fill="#0E9F8A"/>
+    <circle cx="56" cy="210" r="4" fill="#0B1F1C"/>
+    <text x="68" y="215" font-size="13" font-weight="700" fill="#0B1F1C">Built at a Microsoft Hackathon</text>
+    <g class="arrow"><circle cx="536" cy="48" r="17" fill="#0E9F8A"/><path d="M530 54 L542 42 M534 42 L542 42 L542 50" stroke="#0B1F1C" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <rect x="0.5" y="0.5" width="579" height="245" rx="14" fill="none" stroke="#D0D7DE"/>
+  </g>
+</svg>

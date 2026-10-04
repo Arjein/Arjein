@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="246" viewBox="0 0 580 246">
+  <defs>
+    <clipPath id="c"><rect width="580" height="246" rx="14"/></clipPath>
+    <style>
+      .arrow { animation: nudge 2.4s ease-in-out infinite; }
+      @keyframes nudge { 0%,100% { transform: translate(0,0); } 50% { transform: translate(2px,-2px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <rect width="580" height="246" fill="#161B22"/>
+    <rect x="0" y="0" width="580" height="6" fill="#4C8DFF"/>
+    <text x="40" y="60" font-size="26" font-weight="700" fill="#FFFFFF">SatNet</text>
+    <text x="40" y="90" font-size="13.5" font-weight="600" fill="#4C8DFF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">PyTorch · GNNs · PPO · MuJoCo</text>
+    <text x="40" y="124" font-size="15" fill="#9BA3AE">MSc dissertation. A graph neural network policy that</text><text x="40" y="147" font-size="15" fill="#9BA3AE">models an agent's body as a skeleton graph, trained on</text><text x="40" y="170" font-size="15" fill="#9BA3AE">HalfCheetah, Ant, Hopper and Humanoid.</text>
+    <rect x="40" y="196" width="250" height="28" rx="14" fill="#4C8DFF"/>
+    <circle cx="56" cy="210" r="4" fill="#FFFFFF"/>
+    <text x="68" y="215" font-size="13" font-weight="700" fill="#FFFFFF">Up to +200% reward vs. MLP</text>
+    <g class="arrow"><circle cx="536" cy="48" r="17" fill="#4C8DFF"/><path d="M530 54 L542 42 M534 42 L542 42 L542 50" stroke="#FFFFFF" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <rect x="0.5" y="0.5" width="579" height="245" rx="14" fill="none" stroke="#30363D"/>
+  </g>
+</svg>
