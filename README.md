@@ -6,8 +6,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=FF5A5F&center=true&vCenter=true&width=720&lines=I+build+mobile+apps%2C+websites+and+the+servers+they+run+on.;Sole+engineer+behind+a+live+app+on+iOS+and+Android.;MSc+research%3A+graph+neural+networks+for+locomotion+control.;Now+exploring+ML+systems+and+AI+research.">
-    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=E5484D&center=true&vCenter=true&width=720&lines=I+build+mobile+apps%2C+websites+and+the+servers+they+run+on.;Sole+engineer+behind+a+live+app+on+iOS+and+Android.;MSc+research%3A+graph+neural+networks+for+locomotion+control.;Now+exploring+ML+systems+and+AI+research." alt="Typing intro">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=FF5A5F&center=true&vCenter=true&width=720&lines=I+build+mobile+apps%2C+websites+and+the+servers+they+run+on.;Sole+engineer+behind+a+live+social+app+on+iOS+and+Android.;Shipping+my+own+games%3A+Trappy+and+Element+Pop.;MSc+research%3A+graph+neural+networks+for+locomotion+control.;Now+exploring+ML+systems+and+AI+research.">
+    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=E5484D&center=true&vCenter=true&width=720&lines=I+build+mobile+apps%2C+websites+and+the+servers+they+run+on.;Sole+engineer+behind+a+live+social+app+on+iOS+and+Android.;Shipping+my+own+games%3A+Trappy+and+Element+Pop.;MSc+research%3A+graph+neural+networks+for+locomotion+control.;Now+exploring+ML+systems+and+AI+research." alt="Typing intro">
   </picture>
 </p>
 
@@ -21,17 +21,17 @@
 
 ## 👋 About me
 
-I like owning products from the first line of code to the production server. Most of my work so far has been as the **only engineer** on a team, shipping mobile apps, websites, backends and infrastructure end to end. I hold an MSc from **King's College London**, where my dissertation applied graph neural networks to reinforcement learning, and I'm now steering toward **ML systems, system design and AI research**.
+I like owning products from the first line of code to the production server. I'm the **sole software engineer at [Parrot Eyes](https://parroteyes.co)**, a Delft venture studio, where I own **[Am I Nuts](https://aminuts.app)** end to end, and I run my own company, **[ARCWARE](https://arcware.tr)**, building web and mobile products and hosting them. On the side I ship my own mobile games and build a home robot. I hold an MSc from **King's College London**, where my dissertation applied graph neural networks to reinforcement learning, and I'm steering toward **ML systems, system design and AI research**.
 
 ```ts
 const mert = {
-  role:      "Software Engineer",
-  building:  ["ARCWARE", "Am I Nuts"],
-  mobile:    "Flutter",
+  role:      "Software Engineer @ Parrot Eyes",
+  building:  ["Am I Nuts", "ARCWARE", "Trappy", "Element Pop", "Arcby"],
+  mobile:    ["Flutter", "Flame"],
   web:       ["Svelte", "SvelteKit"],
-  backend:   ["Bun", "Node.js", "FastAPI"],
-  infra:     ["Linux", "Docker", "Caddy", "DigitalOcean"],
-  ml:        ["PyTorch", "Hugging Face", "LangGraph"],
+  backend:   ["Bun", "Node.js", "FastAPI", "PostgreSQL"],
+  infra:     ["Linux", "Docker", "Caddy", "GitHub Actions"],
+  ml:        ["PyTorch", "ONNX Runtime", "Hugging Face", "LangGraph"],
   education: ["MSc @ King's College London", "BSc Computer Engineering @ TED University"],
   exploring: ["ML systems", "system design", "AI research"],
 };
@@ -39,40 +39,59 @@ const mert = {
 
 ## 🚀 Right now
 
-- 🛠️ Running **[ARCWARE](https://arcware.tr)**, where I build web and mobile products and run their hosting
-- 📱 Maintaining and extending **[Am I Nuts](https://aminuts.app/)**, a social app I rebuilt in Flutter, live on the App Store and Google Play
-- 🧠 Going deeper into ML systems, robotics and embedded hardware
+- 📱 Owning **[Am I Nuts](https://aminuts.app/)** at Parrot Eyes: the Flutter app on the App Store and Google Play, its backend and its admin dashboard
+- 🎮 Running **[Trappy](https://playtrappy.com)** and **[Element Pop](https://elementpop.arcware.tr)**, my own games, live on the stores
+- 🛠️ Building web and mobile products for clients at **[ARCWARE](https://arcware.tr)**
+- 🤖 Teaching **[Arcby](https://github.com/Arjein/arcby)**, my home robot, new tricks
 
 <br>
 
 ## ✨ Featured work
 
 <p align="center">
+  <a href="https://playtrappy.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-trappy-dark.svg">
+    <img width="49%" src="./assets/card-trappy-light.svg" alt="Trappy">
+  </picture>
+  </a>
   <a href="https://aminuts.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/card-aminuts-dark.svg">
     <img width="49%" src="./assets/card-aminuts-light.svg" alt="Am I Nuts">
   </picture>
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Arjein/arcby">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-arcby-dark.svg">
+    <img width="49%" src="./assets/card-arcby-light.svg" alt="Arcby">
+  </picture>
+  </a>
+  <a href="https://github.com/Arjein/godotty-mcp">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-godotty-dark.svg">
+    <img width="49%" src="./assets/card-godotty-light.svg" alt="Godotty MCP">
+  </picture>
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/Arjein/SatNet">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/card-satnet-dark.svg">
     <img width="49%" src="./assets/card-satnet-light.svg" alt="SatNet">
   </picture>
   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Arjein/clara-ai">
+  <a href="https://elementpop.arcware.tr">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-clara-dark.svg">
-    <img width="49%" src="./assets/card-clara-light.svg" alt="Clara AI">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-elementpop-dark.svg">
+    <img width="49%" src="./assets/card-elementpop-light.svg" alt="Element Pop">
   </picture>
   </a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-hotword-dark.svg">
-    <img width="49%" src="./assets/card-hotword-light.svg" alt="Hot Word">
-  </picture>
 </p>
+
+<p align="center"><sub>More: <a href="https://github.com/Arjein/polymarket-mcp">polymarket-mcp</a> (MCP server for prediction markets) · <a href="https://github.com/Arjein/clara-ai">Clara AI</a> (LangGraph email agent) · <a href="https://github.com/Arjein/oasis-alzheimer-classifier">Alzheimer's MRI classifier</a> (96% accuracy, 23k-parameter CNN)</sub></p>
 
 <br>
 
@@ -102,13 +121,14 @@ const mert = {
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
 </p>
 
-<p align="center"><sub>Also: Elysia.js · pm2 · Weights &amp; Biases · Ollama · and daily work with CLI coding agents, MCP servers and custom agent skills.</sub></p>
+<p align="center"><sub>Also: Flame · Elysia.js · pm2 · pandas · Weights &amp; Biases · Ollama · MuJoCo · and daily work with CLI coding agents, MCP servers and custom agent skills.</sub></p>
 
 <br>
 
@@ -132,4 +152,4 @@ const mert = {
   </picture>
 </p>
 
-<p align="center"><sub>Always happy to talk about ML, mobile, or shipping things end to end.</sub></p>
+<p align="center"><sub>Always happy to talk about ML, mobile, games, robots, or shipping things end to end.</sub></p>
